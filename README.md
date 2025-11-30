@@ -4,4 +4,4 @@ I just write gibberish code that actually works 🤓
 
 **Contact: 👇**
 
-![netheround](https://img.shields.io/badge/netheround-grey?logo=discord)
+![duravici](https://img.shields.io/badge/netheround-grey?logo=discord)
